@@ -1,0 +1,14 @@
+# ----------------------------------------------------------------
+# IMPORTANTE: A instalação do PyTorch deve ser feita separadamente.
+# Consulte o site oficial para obter o comando correto para o seu sistema:
+# https://pytorch.org/get-started/locally/
+#
+# Depois de instalar o PyTorch, instale as outras dependências
+# com o comando: pip install -r requirements.txt
+# ----------------------------------------------------------------
+
+numpy
+Pillow
+scikit-learn
+imbalanced-learn
+kornia
